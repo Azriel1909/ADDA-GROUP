@@ -71,7 +71,7 @@ ul {
 }
 
 .logo-img {
-  max-width: 400px;
+  max-width: 700px;
 }
 
 .welcome-section h1 {
@@ -272,6 +272,15 @@ footer a:hover {
 }
 
 /* RESPONSIVE DESIGN */
+
+@media only screen and (max-width: 800px) {
+  .logo-img {
+    max-width: 400px;
+  }
+  .welcome-section p {
+    font-size: 1.5rem;
+  }
+}
 
 @media only screen and (max-width: 600px) {
   /* NAV SECTION */
