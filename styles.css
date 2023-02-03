@@ -68,10 +68,13 @@ ul {
   height: 100vh;
   margin-top: 3rem;
   color: var(--bc-light);
+  background-image: url("./images/logoBack.png"); 
+  background-size: cover;
 }
 
 .logo-img {
   max-width: 700px;
+  
 }
 
 .welcome-section h1 {
