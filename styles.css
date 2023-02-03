@@ -69,7 +69,9 @@ ul {
   margin-top: 3rem;
   color: var(--bc-light);
   background-image: url("./images/logoBack.png"); 
-  background-size: cover;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .logo-img {
