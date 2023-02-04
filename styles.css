@@ -282,8 +282,12 @@ footer a:hover {
   .logo-img {
     max-width: 400px;
   }
+  
   .welcome-section p {
     font-size: 1.5rem;
+  }
+  .welcome-section{
+    background-image: none;
   }
 }
 
@@ -296,6 +300,10 @@ footer a:hover {
   /* WELCOME SECTION */
   .welcome-section h1 {
     font-size: 1.5rem;
+  }
+
+  .welcome-section{
+    background-image: none;
   }
 
   .logo-img {
