@@ -314,6 +314,10 @@ h1 {
   border-radius: 50%;
 }
 
+.memeber-contact {
+  color: var(--bc-primary);
+}
+
 /* FOOTER */
 
 footer {
