@@ -251,6 +251,11 @@ h1 {
   color: var(--bc-primary);
 }
 
+iframe {
+  width: 100%;
+  height: 50%;
+}
+
 /* CONTACT SECTION */
 
 .contact-section {
